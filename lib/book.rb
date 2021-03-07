@@ -6,7 +6,11 @@ class Book
   end
   
   def turn_page
+<<<<<<< HEAD
     puts "Flipping the page...wow, you read fast!"
+=======
+    puts
+>>>>>>> 5dfe42de320ef4da5db6687444764d9e7901490f
   end
 end
 
